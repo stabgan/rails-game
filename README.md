@@ -6,7 +6,7 @@ Objectives :
 3. Learning Rails framework
 4. Hands on MVC framework and understanding how it works
 5. DB migrations and how Database connects to model 
-6. Understanding Rake and Builder
+6. Understanding how dependencies are installed 
 
 Outcomes:
 All objectives are done .
